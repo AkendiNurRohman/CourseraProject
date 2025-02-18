@@ -1,5 +1,5 @@
 ---
-title: "Practical Machine Learning"
+title: "Practical Machine Learning Assigment"
 ---
 
 1.Import library and data
